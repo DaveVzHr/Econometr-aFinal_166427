@@ -11,7 +11,8 @@ El objetivo es practicar la recolección de datos reales mediante un pipeline re
 [DaveVzHr](https://github.com/DaveVzHr)
 
 ## 📁 Estructura del repositorio
-
+```
+.
 EconometríaFinal_166427/
 ├── README.md
 ├── .gitignore
@@ -20,6 +21,7 @@ EconometríaFinal_166427/
 │ └── scrape_comments.py
 └── data/
 └── dataset.csv
+```
 
 ## 🚀 ¿Cómo usar este scraper?
 
@@ -38,7 +40,6 @@ YOUTUBE_API_KEY=TU_API_KEY_AQUI
 
 En tu terminal, dentro de la carpeta del proyecto, ejecuta:
 
-```bash
 pip install -r requirements.txt
 
 
