@@ -1,16 +1,16 @@
-# Proyecto Final - Econometría II 📊
+# Proyecto Final - Econometría II 
 
 Este proyecto utiliza la API pública de YouTube para recolectar comentarios de videos y construir un dataset para análisis econométrico.
 
-## 🧠 Objetivo
+## Objetivo
 
 El objetivo es practicar la recolección de datos reales mediante un pipeline reproducible con una API, cumpliendo con los estándares de documentación, limpieza y estructura exigidos en el curso.
 
-## 👨‍💻 Autor
+## Autor
 
 [DaveVzHr](https://github.com/DaveVzHr)
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 ```
 .
 EconometríaFinal_166427/
@@ -23,7 +23,7 @@ EconometríaFinal_166427/
 └── dataset.csv
 ```
 
-## 🚀 ¿Cómo usar este scraper?
+## ¿Cómo usar este scraper?
 
 ### 1. Crear archivo `.env` en tu computadora (NO subir a GitHub)
 
